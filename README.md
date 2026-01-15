@@ -31,37 +31,4 @@ This website showcases my projects, skills, and experience as a developer.
 
 ### Installation
 ```bash
-git clone https://github.com/your-username/portfolio.git
-cd portfolio
-npm install
 
-📸 Screenshots
-
-Add screenshots or GIFs of your portfolio here
-
-📈 Future Improvements
-
-Dark mode
-
-Blog section
-
-Animations & transitions
-
-CMS integration
-
-🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-Feel free to fork this repo and submit a pull request.
-
-📬 Contact
-
-Email: amankumardev688@gmail.com
-
-LinkedIn: 
-
-GitHub: amankumardev
-
-📄 License
-
-This project is licensed under the MIT License.
