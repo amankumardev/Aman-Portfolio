@@ -23,12 +23,3 @@ This website showcases my projects, skills, and experience as a developer.
 ## 📂 Project Structure
 
 
-## 🚀 Getting Started
-
-### Prerequisites
-- Node.js (v16+ recommended)
-- npm or yarn
-
-### Installation
-```bash
-
