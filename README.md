@@ -20,6 +20,4 @@ This website showcases my projects, skills, and experience as a developer.
 - **Styling:** CSS / Tailwind / Bootstrap / SCSS
 - **Deployment:** GitHub Pages / Vercel / Netlify
 
-## 📂 Project Structure
-
 
